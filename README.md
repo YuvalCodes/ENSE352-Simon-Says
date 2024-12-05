@@ -1,8 +1,8 @@
-#Simon Says Game
-#By: Yuval Glozman
-#Class: ENSE352
+Simon Says Game
+By: Yuval Glozman
+Class: ENSE352
 
-##Project Description: 
+Project Description: 
 
 The Project was made for my Computer Systems Architecture Lab Final (ENSE352) and was based off the Simon Says game built by Hasbro
 
