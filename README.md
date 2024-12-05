@@ -50,7 +50,7 @@ lighting the 4 bit binary pattern on the LED’s. The LED’s will remain in thi
 player presses any button and a new game will resume.
 
 
-##How to Play the game
+How to Play the game
 
 Step 1. Install the main.c, main.h, and the stm32F103RB.h file
 
